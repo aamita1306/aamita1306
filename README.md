@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aamita1306
+- 👋 Hi, I’m Amita S
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
